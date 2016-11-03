@@ -1,0 +1,10 @@
+{
+  "name": "game-off-2016",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/argyle-astronauts/game-off-2016",
+    "type": "git"
+  },
+  "license": "MIT"
+}
